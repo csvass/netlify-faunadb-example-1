@@ -9,7 +9,7 @@
     "markdown-magic": "^1.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "bootstrap": "netlify dev:exec node ./scripts/bootstrap-fauna-database.js",
@@ -19,7 +19,7 @@
     "build": "react-scripts build"
   },
   "devDependencies": {
-    "netlify-cli": "^2.19.0"
+    "netlify-cli": "^12.0.11"
   },
   "browserslist": [
     ">0.2%",
